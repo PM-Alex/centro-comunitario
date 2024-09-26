@@ -1,0 +1,21 @@
+/* @font-face{
+        font-family: nombre;
+        src: url(archivo);
+        font-weight: 100 900; */
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 200%;
+    color: darkgoldenrod;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-style: initial;
+}
+
+
